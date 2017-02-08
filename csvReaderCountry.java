@@ -1,9 +1,8 @@
 
 /**
- * Write a description of csvReaderCountry here.
- * Prrogram to read record files of exports of countries and retrieve data using CSV reader
- * @author (your name) 
- * @version (a version number or a date)
+  * Prrogram to read record files of exports of countries and retrieve data using CSV reader
+ * @author Garima Aggarwal 
+ *
  */
 import edu.duke.*;
 import org.apache.commons.csv.*;
