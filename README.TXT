@@ -1,5 +1,5 @@
 PROJECT TITLE:CSV Reader for Weather
-PURPOSE OF PROJECT:CSV Reader program to read weather files and retrieve data
+PURPOSE OF PROJECT:CSV Reader program to read export files and retrieve data
 HOW TO START THIS PROJECT:
 1) Download bluej and edu.duke library
 2) Download the project
